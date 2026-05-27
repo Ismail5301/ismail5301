@@ -12,5 +12,6 @@
 | [gcp-dns-failover](https://github.com/ismail5301/gcp-dns-failover) | Multi-cluster DNS failover across 2 GCP regions |
 | [gcp-vpc-hub-spoke](https://github.com/ismail5301/gcp-vpc-hub-spoke) | Hub-and-spoke VPC with shared services |
 
-![GCP](https://img.shields.io/badge/GCP-Cloud_Engineer-4285F4?logo=google-cloud)
-![Terraform](https://img.shields.io/badge/IaC-Terraform-7B42BC?logo=terraform)
+## About this portfolio
+These projects are hands-on labs I built to deepen my GCP networking skills.
+Each one is fully deployable — see the README in each repo for setup instructions.
